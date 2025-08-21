@@ -4,4 +4,5 @@
 # But not these specific files/folders
 !.gitignore
 !nginx-config/
+!nginx-config/**
 !docker-compose.yaml
